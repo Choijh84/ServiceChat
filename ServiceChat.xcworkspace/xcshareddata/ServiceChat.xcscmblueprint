@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D6BA9B2EBBA3D03FD40483EE9987FAA8DE328006",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D6BA9B2EBBA3D03FD40483EE9987FAA8DE328006" : 0,
+    "F78C02B5DB5FEA97FDABA739120CE8A1AC608F00" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FC61A588-F4F4-44A0-A0B8-1B67BC1CC310",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D6BA9B2EBBA3D03FD40483EE9987FAA8DE328006" : "ServiceChat\/",
+    "F78C02B5DB5FEA97FDABA739120CE8A1AC608F00" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ServiceChat",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ServiceChat.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Choijh84\/ServiceChat.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D6BA9B2EBBA3D03FD40483EE9987FAA8DE328006"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Choijh84\/ioscourse_super_cool.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F78C02B5DB5FEA97FDABA739120CE8A1AC608F00"
+    }
+  ]
+}
